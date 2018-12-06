@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/photoGallery/routes/web.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/.env</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/app/Photo.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/database/migrations/2018_12_04_175320_create_albums_table.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/components/form/file.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/albums/create.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/app/Providers/AppServiceProvider.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/photos/create.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/photos/show.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/database/migrations/2018_12_04_175404_create_photos_table.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/app/Providers/FormServiceProvider.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/components/form/text.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/storage/app/public/.gitignore</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/app/Album.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/albums/show.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/inc/messages.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/components/form/submit.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/app/Http/Controllers/PhotosController.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/app/Http/Controllers/AlbumsController.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/components/form/hidden.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/inc/topbar.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/albums/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/photos/index.blade.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/config/app.php</file>
+            <file>file:/C:/xampp/htdocs/photoGallery/resources/views/components/form/textarea.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
